@@ -1,0 +1,30 @@
+$font-stack: -apple-system, Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: $font-stack;
+  color: $primary-color;
+}
+
+.row, h1 {
+  text-align: center;
+}
+
+.base4, .telugu {
+  font-size: 2em;
+  margin: 20px;
+}
+
+#vol {
+  height: 75px;
+  width: 95%;
+  font-size: 1.65em;
+}
+
+.text {
+  font-size: .9em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
